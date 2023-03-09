@@ -1,0 +1,8 @@
+---
+title: "Ethics ◉ Data Science"
+---
+
+# About
+
+This website is the result of a cooperation between the [Maxwell School at Syracuse University](https://www.maxwell.syr.edu/) and the [Hertie School, Berlin](https://https://hertie-school.org/en). The teaching ideas resulted from discussions, ideation, and prototyping during a workshop in Berlin in August 2021. They were developed into their current form by [Simon Munzert](https://simonmunzert.github.io/) and [Johannes Himmelreich](https://johanneshimmelreich.net/). This project was made possible with funding  from the [Association of Professional Schools of International Affairs (APSIA)](https://apsia.org/).
+

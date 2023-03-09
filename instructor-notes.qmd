@@ -1,0 +1,7 @@
+---
+title: "Ethics ◉ Data Science"
+---
+
+# Instructor material
+
+Are you instructor of a data science course looking for materials for a session on ethics of data science? Or are you an instructor of a data science ethics course looking for materials for a session on data science in practice? Check out our [instructor notes](/instructor-notes.qmd)!

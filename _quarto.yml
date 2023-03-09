@@ -1,0 +1,31 @@
+project:
+  type: website
+
+website:
+  title: "Ethics ◉ Data Science"
+  navbar:
+    left:
+    - href: index.qmd
+      text: Home
+    - href: ethics.qmd
+      text: Ethics
+    - href: datascience.qmd
+      text: Data science
+    - href: instructor-notes.qmd
+      text: For instructors
+    - href: about.qmd
+      text: About
+
+format:
+  html:
+    theme: 
+    - quartz
+    - custom.scss
+    toc: false
+    smooth-scroll: true
+    link-external-icon: false
+    link-external-newwindow: true
+    link-external-filter: '^(?:http:|https:)\/\/www\.quarto\.org\/custom'
+    
+margin-footer: |
+  Supported by: <br><br> ![APSIA logo](/img/apsia-logo.png){fig-align="center" width=50%} ![Hertie School](/img/hertie-school.png){fig-align="center" width=50%} ![Maxwell School](/img/maxwell-logo.png){fig-align="center" width=50%}

@@ -1,0 +1,27 @@
+---
+title: "Ethics ◉ Data Science"
+---
+
+```{=html}
+<div class="row">
+    <div class="col-md-6">
+    <div class="card text-white bg-primary mb-3" style="align:center max-width: 20rem;">
+  <div class="card-body">
+    <h1 class="card-title">Ethics<br>for non-ethicists</h1>
+    <p class="card-text">Get started!</p>
+    <a href="ethics.qmd" class="stretched-link"></a>
+  </div>
+    </div>
+</div>
+
+   <div class="col-md-6">
+<div class="card text-white bg-info mb-3" style="align:center max-width: 20rem;">
+  <div class="card-body">
+    <h1 class="card-title">Data science<br>for non-data scientists</h1>
+    <p class="card-text">Get started!</p>
+    <a href="datascience.qmd" class="stretched-link"></a>
+  </div>
+</div>
+  </div>
+</div>
+```
