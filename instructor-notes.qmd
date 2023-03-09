@@ -5,3 +5,17 @@ title: "Ethics ◉ Data Science"
 # Instructor material
 
 Are you instructor of a data science course looking for materials for a session on ethics of data science? Or are you an instructor of a data science ethics course looking for materials for a session on data science in practice? Check out our [instructor notes](/instructor-notes.qmd)!
+
+# Introduction
+
+Data science is essential for public policy and public administration --- and it is a highly interdisciplinary field. Data science combines ``hacking'' skills and knowledge of math and statistics with substantive expertise of a given empirical context. Moreover, data science increasingly requires ethics. Data science is not only operating and analyzing data but also responsible research and communication. Much is at stake. With increasing data and capability, data science risks causing scandals, harming the most vulnerable, and --- especially in public administration --- failing to live up to the moral expectations of citizens and the public.
+<!-- edit idea: "data scientists" instead of "data science"? -->
+
+Integrating data science and ethics is an important and significant challenge. It is important because much is stake and because programs in public policy and administration have reasons to take very seriously the ethical aspects the methods they teach. And the challenge is significant because instruction time in public affairs programs is as limited as instructors are. Instructors are often expected to cover all the bases of data science in only one course and have usually an academic background more related to either data science or ethics but not both. In short, when it comes to integrating ethics and data science, all instructors are to some extent foreigners in the field they teach.   
+
+This document aims at this challenge. This document is a ``teaching package'' that provides materials that teachers can use to introduce non-ethicists to ethics and non-data-scientists to data science. The target audience for this document are teachers in higher education who teach data science or the ethics of data science in a program of public administration, public policy, or international affairs. 
+
+The document consists of two parts: Session materials that form an introduction to data science, and session materials that form an introduction to ethics. Each time the materials is intended to fill a session of about XX minutes. The materials can be deployed flexibly in a variety of ways in courses on data science or the ethics of data science.
+
+<!--Comment on genesis and funding acknowledgment-->
+This document is the result of a cooperation between the Maxwell School at Syracuse University and the Hertie School of Governance Berlin. The teaching ideas resulted from discussions, ideation, and prototyping during a workshop in Berlin in August 2021. They were developed into their current from by Simon Munzert and Johannes Himmelreich. This project was made possible with funding  from the Association of Professional Schools of International Affairs (APSIA).
